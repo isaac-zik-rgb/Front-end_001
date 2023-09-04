@@ -1,0 +1,76 @@
+body {
+
+  text-align: center;
+  font-family: 'Happy Monkey', cursive;
+  background: linear-gradient(blue, pink);
+
+color: #fff;
+}
+#img-logo {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid pink;
+}
+h1, h3, p {
+    text-shadow: 0 0 1px black;
+}
+#bday-age {
+    background: pink;
+    padding: 5px 10px;
+
+}
+ #bday-time{
+    background: pink;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-bottom: 10px;
+    margin: 5px 0px 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title{
+    margin: 10px;
+}
+#gift-hints {
+margin: 0px 0 10px;
+}
+.gift-image{
+    height:400px ;
+    width: 400px;
+    background: url("images/bday.jpg");
+    background-size: cover;
+    margin: 0% auto;
+    
+    border: 6px solid white;
+    border-radius:  10px;
+}
+#gift-1:hover{
+    background: url("https://media.giphy.com/media/fEepCCPxhiEggTuXvn/giphy.gif");
+}
+#gift-2:hover{
+    background: url("https://media.giphy.com/media/KWRjfFe4x7nwyh9GlX/giphy.gif");
+}
+#gift-3:hover {
+    background: url("https://media.giphy.com/media/K5YC2HXUjUPjDM3kjj/giphy.gif");
+}
+#gift-4 {
+  height: 200px;
+}
+#gift-4:hover{
+    background: url("https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif");
+}
+#footer {
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    margin: 50px 0 30px;
+}
