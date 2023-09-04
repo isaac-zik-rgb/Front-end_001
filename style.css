@@ -1,0 +1,53 @@
+.main {
+    margin-top: 100px;
+}
+.niv-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.search-input {
+   
+    display: block;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid rgb(226, 235, 231);
+    border-radius:24px;
+    line-height: 24px;
+
+    
+
+    
+}
+.logo-image{
+   margin-bottom: 20p;
+    display: block;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.btn {
+    cursor: pointer;
+    margin-left: 4px;
+    margin-right: 4px;
+   font-size: 14;
+   font-weight: bold;
+   
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 0.1px solid;
+    border-radius: 5px;
+    border: 0;
+
+
+
+}
